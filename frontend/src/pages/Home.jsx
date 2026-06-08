@@ -44,7 +44,7 @@ export default function Home() {
               </Link>
             </div>
           </div>
-          <div className="hidden md:flex text-9xl select-none">🛒</div>
+          {/* <div className="hidden md:flex text-9xl select-none">🛒</div> */}
         </div>
       </section>
 
